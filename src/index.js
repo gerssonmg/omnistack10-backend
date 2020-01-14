@@ -18,6 +18,7 @@ mongoose.connect(
     {
         useNewUrlParser: true,
         useUnifiedTopology: true,
+        useCreateIndex: true,
     });
 
 app.use(express.json()); //de maneira simplificada, faz o express entender body em formato JSON
