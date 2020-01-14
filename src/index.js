@@ -1,5 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
+const routes = require('./routes');
 
 //Metodos HTTP: GET, POST, PUT, DELETE
 
@@ -12,16 +13,14 @@ const mongoose = require('mongoose');
 
 const app = express();
 
-mongoose.connect('mongodb+srv://gerssonmg:gerssonmg@cluster0-gvs8c.mongodb.net/week10?retryWrites=true&w=majority',
+mongoose.connect(
+    'mongodb+srv://gerssonmg:gerssonmg@cluster0-gvs8c.mongodb.net/week10?retryWrites=true&w=majority',
     {
         useNewUrlParser: true,
         useUnifiedTopology: true,
     });
 
 app.use(express.json()); //de maneira simplificada, faz o express entender body em formato JSON
-
-app.post('/', (request, response) => {
-    return response.json({ message: 'Heldlo' });
-})
+app.use(routes);
 
 app.listen(3333);
