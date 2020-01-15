@@ -1,6 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const routes = require('./routes');
+const cors = require('cors');
 
 //Metodos HTTP: GET, POST, PUT, DELETE
 
@@ -21,6 +22,7 @@ mongoose.connect(
         useCreateIndex: true,
     });
 
+app.use(cors());
 app.use(express.json()); //de maneira simplificada, faz o express entender body em formato JSON
 app.use(routes);
 
