@@ -7,7 +7,7 @@ const { findConnections, sendMessage } = require('../websocket');
 // show: mostrar unico recurso
 // store: quer criar
 // update: alterar
-// delete: apagar
+// delete: apagar 
 
 module.exports = {
 
