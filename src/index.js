@@ -30,4 +30,6 @@ app.use(cors());
 app.use(express.json()); //de maneira simplificada, faz o express entender body em formato JSON
 app.use(routes);
 
-server.listen(3333);
+
+const port = process.env.PORT || 3333;
+server.listen(port);
