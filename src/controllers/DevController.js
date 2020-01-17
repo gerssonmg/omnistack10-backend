@@ -45,5 +45,17 @@ module.exports = {
 
 
         return response.json(dev);
+    },
+
+
+    async update(request, response) {
+        const devs = await Dev.find();
+
+        return response.json(devs);
+    },
+    async destroy(request, response) {
+        const devs = await Dev.find();
+
+        return response.json(devs);
     }
 };
