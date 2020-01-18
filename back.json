@@ -1,0 +1,156 @@
+[
+  {
+    "techs": ["React Native"],
+    "_id": "5e21eee1f1ab290017bc1a08",
+    "github_username": "birobirobiro",
+    "name": "João Inácio Neto",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/22185823?v=4",
+    "bio": "Mobile Developer",
+    "location": {
+      "coordinates": [-48.4862883, -20.9418687],
+      "_id": "5e21eee1f1ab290017bc1a09",
+      "type": "Point"
+    },
+    "__v": 0
+  },
+  {
+    "techs": ["Python", "Java"],
+    "_id": "5e21ef09f1ab290017bc1a18",
+    "github_username": "JdaniloC",
+    "name": "Danilo Silva",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/49529180?v=4",
+    "bio": "Bachelor of Computer Information Systems, CIn, UFPE",
+    "location": {
+      "coordinates": [-35.3082006, -8.109953899999999],
+      "_id": "5e21ef09f1ab290017bc1a19",
+      "type": "Point"
+    },
+    "__v": 0
+  },
+  {
+    "techs": ["ReactJS", "Node", "React Native"],
+    "_id": "5e21ef18f1ab290017bc1a1d",
+    "github_username": "PedroBoni",
+    "name": "Pedro Bonifácio",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/50744385?v=4",
+    "bio": "Developer Full Stack Junior ",
+    "location": {
+      "coordinates": [-46.7968, -24.1680384],
+      "_id": "5e21ef18f1ab290017bc1a1e",
+      "type": "Point"
+    },
+    "__v": 0
+  },
+  {
+    "techs": ["JavaScript", "HTML", "CSS"],
+    "_id": "5e21ef8ef1ab290017bc1a47",
+    "github_username": "LuisAntonimo",
+    "name": "Luís Antônio",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/53987326?v=4",
+    "bio": "Ignora isso.",
+    "location": {
+      "coordinates": [-45.98988800000001, -20.0105984],
+      "_id": "5e21ef8ef1ab290017bc1a48",
+      "type": "Point"
+    },
+    "__v": 0
+  },
+  {
+    "techs": ["ReactJS", "Javascript"],
+    "_id": "5e21f018f1ab290017bc1a5d",
+    "github_username": "britivaldo",
+    "name": null,
+    "avatar_url": "https://avatars2.githubusercontent.com/u/51293406?v=4",
+    "bio": null,
+    "location": {
+      "coordinates": [-49.1845494, -49.333333],
+      "_id": "5e21f018f1ab290017bc1a5e",
+      "type": "Point"
+    },
+    "__v": 0
+  },
+  {
+    "techs": ["Node.js", "ReactJS", "React Native"],
+    "_id": "5e21f0edf1ab290017bc1a83",
+    "github_username": "DouglasVarollo",
+    "name": "Douglas Varollo",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/34134653?v=4",
+    "bio": "Atualmente focado na Stack Node.JS, ReactJS e React Native. :}",
+    "location": {
+      "coordinates": [-46.4976378, -23.539809899999998],
+      "_id": "5e21f0edf1ab290017bc1a84",
+      "type": "Point"
+    },
+    "__v": 0
+  },
+  {
+    "techs": ["NodeJS", "ReactJS"],
+    "_id": "5e21f238f1ab290017bc1aa8",
+    "github_username": "Rodr1go",
+    "name": "Rodrigo Santos ",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/7066040?v=4",
+    "bio": "Analyst Developer\r\n",
+    "location": {
+      "coordinates": [-41.4312302, -7.0758629],
+      "_id": "5e21f238f1ab290017bc1aa9",
+      "type": "Point"
+    },
+    "__v": 0
+  },
+  {
+    "techs": ["ddf"],
+    "_id": "5e21f46cf1ab290017bc1ada",
+    "github_username": "d",
+    "name": "Jesse Zhang",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/440892?v=4",
+    "bio": null,
+    "location": {
+      "coordinates": [1, 1],
+      "_id": "5e21f46cf1ab290017bc1adb",
+      "type": "Point"
+    },
+    "__v": 0
+  },
+  {
+    "techs": ["s"],
+    "_id": "5e21f472f1ab290017bc1adc",
+    "github_username": "1",
+    "name": "Michael",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1825798?v=4",
+    "bio": null,
+    "location": {
+      "coordinates": [1, 1],
+      "_id": "5e21f472f1ab290017bc1add",
+      "type": "Point"
+    },
+    "__v": 0
+  },
+  {
+    "techs": ["Ruby on Rails"],
+    "_id": "5e21f5f5f1ab290017bc1b88",
+    "github_username": "israeljrs",
+    "name": "Israel Junior",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2046586?v=4",
+    "bio": "Cloud Solution Architect and Full Stack Web Developer working with #RubyOnRails, #Angular, #python and #Serverless.",
+    "location": {
+      "coordinates": [-43.8766931, -16.727857399999998],
+      "_id": "5e21f5f5f1ab290017bc1b89",
+      "type": "Point"
+    },
+    "__v": 0
+  },
+  {
+    "techs": ["Python", "R", "Machine Learning"],
+    "_id": "5e2210b881c17200177d681d",
+    "github_username": "luanleonardo",
+    "name": "Luan Leonardo",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/33757982?v=4",
+    "bio": "Data Science Student",
+    "location": {
+      "coordinates": [-59.9915202, -3.1282905],
+      "_id": "5e2210b881c17200177d681e",
+      "type": "Point"
+    },
+    "__v": 0
+  }
+]
